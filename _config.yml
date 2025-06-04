@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "RECOMB-seq Conference"
+title: "RECOMB-Arch Conference"
 email: "calkan@gmail.com"
 description: "RECOMB-Arch is the RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads"
 baseurl: ""
@@ -23,7 +23,7 @@ siteVerification: ""
 # Organizer Info
 organizerName: "RECOMB-Arch"
 organizerAlternateName: "RECOMB-Arch"
-organizerDescription: "Algorithm development for analyzing sequence data"
+organizerDescription: "Acceleration for bioinformatics workloads"
 organizerEmail: "calkan@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.recomb.org"
@@ -42,7 +42,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/program/", text: "Program"}
- - {permalink: "/history/", text: "History of RECOMB SEQ"}
+ - {permalink: "/history/", text: "History of RECOMB ARCH"}
 bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 rightNavigationButtons:
@@ -108,16 +108,16 @@ venueFeatures: [""]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "recombseq"
-twitterFeed: " https://twitter.com/recombseq"
+twitterHashTag: "recombarch"
+twitterFeed: " https://twitter.com/recombarch"
 
 
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/recombseq", icon: "twitter"}
+ - {link: "https://twitter.com/recombarch", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
+ - {link: "https://www.youtube.com/@recomb-arch", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

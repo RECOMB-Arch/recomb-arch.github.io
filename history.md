@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History of RECOMB-seq
+title: History of RECOMB-Arch
 permalink: /history/
 isStaticPost: true
 ---
@@ -10,7 +10,7 @@ RECOMB-Arch is the successor of the BIO-Arch Workshop initially organized as par
 
 {: .text-justify }
                 
-You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/@recomb-seq).
+You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/@recomb-arch).
 
 #### Previous iterations
    - 2023: Istanbul, Turkey as BIO-Arch [About](https://safari.ethz.ch/recomb23-arch-workshop/) 
