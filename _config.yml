@@ -1,0 +1,143 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "RECOMB-seq Conference"
+email: "calkan@gmail.com"
+description: "RECOMB-Arch is the RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads"
+baseurl: ""
+url: "https://recomb-arch.github.io"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: "recomb-arch.github.io"
+siteVerification: ""
+
+# Organizer Info
+organizerName: "RECOMB-Arch"
+organizerAlternateName: "RECOMB-Arch"
+organizerDescription: "Algorithm development for analyzing sequence data"
+organizerEmail: "calkan@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://www.recomb.org"
+
+# Head
+metaKeywords: "recomb, acceleration"
+twitterAccount: "@recombarch"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/papers/", text: "Call for Contributions"}
+ - {permalink: "/team/", text: "Committees"}
+ - {permalink: "/speakers/", text: "Keynote Speakers"}
+ - {permalink: "/program/", text: "Program"}
+ - {permalink: "/history/", text: "History of RECOMB SEQ"}
+bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
+rightNavigationButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "RECOMB-ARCH 2026"
+heroSubTitle: "The First RECOMB Satellite Conference on on Hardware Acceleration of Bioinformatics Workloads"
+eventDate: "April 24-25, 2026"
+eventLocation: "Athens, Greece"
+#typeoutTextValues: '"2023"'
+#typeoutFallback: "2023"
+heroButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
+ #- {permalink: "/#tickets", text: "Attend RECOMB ARCH 2026"}
+
+# About Block
+aboutTitle: "About RECOMB ARCH"
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "TBD"
+eventLocationLink: "TBD"
+eventStreetAddress: "TBD"
+eventAddressLocality: ""
+eventAddressLocalityRegion: "Athens"
+eventPostalCode: ""
+eventAddressCountry: "Greece"
+eventStartTime: "2025-04-24T08:00"
+eventDoorTime: "09:00"
+eventEndTime: "2025-04-25T18:00"
+eventPlaceCoordinates: "37.5617613,126.9353254"
+mapCenterCoordinates: "37.5617613,126.9353254"
+mapMobileCenterCoordinates: "37.5617613,126.9353254"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "TBD"
+venueFeatures: [""]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "recombseq"
+twitterFeed: " https://twitter.com/recombseq"
+
+
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/recombseq", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+ -
+  title: "Policies"
+  links:
+   - {permalink: "/coi/", text: "Conflict-of-interest Policy"}
+   # - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Collections
+collections:
+  paper-calls:
+    output: true
+# Speakers List Block
+showSessions: true
+

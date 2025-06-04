@@ -1,0 +1,40 @@
+- 
+  id: 0
+  name: "Can"
+  surname: "Alkan"
+  title: "Steering Committee Member"
+  thumbnailUrl: CanAlkan.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/calkan_cs"}
+    - {name: "github", link: "https://github.com/calkan"}
+    - {name: "site", link: "http://alkanlab.org/"}
+- 
+  id: 1
+  name: "Onur"
+  surname: "Mutlu"
+  title: "Steering Committee Chair"
+  thumbnailUrl: OnurMutlu.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://x.com/_onurmutlu_"}
+    - {name: "github", link: "https://github.com/omutlu"}
+    - {name: "site", link: "https://safari.ethz.ch/"}
+
+#- 
+#  id: 5
+#  name: "Camille"
+#  surname: "Marchet"
+#  title: "Program Committee Chair"
+#  thumbnailUrl: CamilleMarchet.jpg
+#  subTeam: true
+#  social: 
+#    - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
+#    - {name: "github", link: "https://github.com/kamimrcht"}
+#    - {name: "site", link: "https://kamimrcht.github.io/webpage/"}
+#- 
+
