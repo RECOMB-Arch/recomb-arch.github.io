@@ -31,7 +31,6 @@
   surname: "Turakhia"
   title: "Steering Committee Member"
   thumbnailUrl: YatishTurakhia.jpg
-  subTeam: true
   social: 
     - {name: "twitter", link: "https://x.com/yatishturakhia"}
     - {name: "github", link: "https://github.com/yatisht"}
