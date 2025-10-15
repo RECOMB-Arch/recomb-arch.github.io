@@ -5,7 +5,7 @@ permalink: /history/
 isStaticPost: true
 ---
 
-RECOMB-Arch is the successor of the BIO-Arch Workshop initially organized as part of RECOMB 2023 in İstanbul, Turkey; for presenting and discussing new ideas in accelerating bioinformatics workloads with the co-design of hardware & software and the use of new computer architectures. Our goal is to discuss new system designs tailored for bioinformatics. RECOMB-Arch aims to bring together researchers in the bioinformatics, computational biology, and computer architecture communities to strengthen the progress in accelerating bioinformatics analysis (e.g., genome, transcriptome, proteome analysis) with efficient system designs that include hardware acceleration and software systems tailored for new hardware technologies.
+RECOMB-Arch is the successor of the BIO-Arch Workshop initially organized as part of RECOMB 2023 in İstanbul, Turkey; for presenting and discussing new ideas in accelerating bioinformatics workloads with the co-design of hardware & software and the use of new computer architectures. Our goal is to discuss new system designs tailored for bioinformatics. RECOMB-Arch aims to bring together researchers in the bioinformatics, computational biology, and computer architecture communities to strengthen the progress in accelerating bioinformatics analysis (e.g., genome, transcriptome, proteome analysis) with efficient system designs that include hardware acceleration and software systems tailored for new hardware technologies, including compiler optimizations, APIs, and DSLs that support acceleration platforms.
 
 
 {: .text-justify }
