@@ -27,6 +27,17 @@
 
 - 
   id: 3
+  name: "Ibrahim"
+  surname: "Numanagić"
+  title: "Steering Committee Member"
+  thumbnailUrl: IbrahimNumanagic.jpg
+  team: true
+  social: 
+    - {name: "github", link: "https://github.com/inumanag"}
+    - {name: "site", link: "https://saray.ca/~ibrahim/"}
+
+- 
+  id: 4
   name: "Yatish"
   surname: "Turakhia"
   title: "Steering Committee Member"
@@ -38,7 +49,7 @@
     - {name: "site", link: "https://turakhia.ucsd.edu/"}
 
 - 
-  id: 4
+  id: 5
   name: "Yatish"
   surname: "Turakhia"
   title: "Program Committee Chair"
