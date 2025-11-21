@@ -51,7 +51,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "RECOMB-ARCH 2026"
-heroSubTitle: "The First RECOMB Satellite Conference on on Hardware Acceleration of Bioinformatics Workloads"
+heroSubTitle: "The First RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads"
 eventDate: "May 24, 2026"
 eventLocation: "Thessaloniki, Greece"
 #typeoutTextValues: '"2023"'
