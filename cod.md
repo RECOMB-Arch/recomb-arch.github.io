@@ -13,4 +13,4 @@ RECOMB-Arch prides itself on being an open, respectful, and inclusive community.
 If someone is bothering you, please tell RECOMB-Arch Organizers immediately and they will take care of it. We want to maintain RECOMB-Arch’s awesomeness.
 
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/section-backgrounds/recomb-arch-history-new.jpeg" style="display:none">
