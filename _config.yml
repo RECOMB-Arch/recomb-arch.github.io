@@ -116,9 +116,9 @@ twitterFeed: " https://twitter.com/recombarch"
 # Footer
 socialLinks:
  - {link: "https://twitter.com/recombarch", icon: "twitter"}
-# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {link: "https://www.youtube.com/@recomb-arch", icon: "youtube"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://www.linkedin.com/groups/16421006", icon: "linkedin"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
