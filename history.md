@@ -28,4 +28,4 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 #### Best Paper Award
 
 #### Best Poster Award
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/recomb-arch-history-new.jpeg" style="display:none">
