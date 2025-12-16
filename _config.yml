@@ -31,7 +31,6 @@ organizerLink: "http://www.recomb.org"
 # Head
 metaKeywords: "recomb, acceleration"
 twitterAccount: "@recombarch"
-# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -41,12 +40,10 @@ navigationLinks:
 
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
- - {permalink: "/program/", text: "Program"}
+
  - {permalink: "/history/", text: "History of RECOMB ARCH"}
 bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 rightNavigationButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -54,11 +51,8 @@ heroTitle: "RECOMB-ARCH 2026"
 heroSubTitle: "The First RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads"
 eventDate: "May 24, 2026"
 eventLocation: "Thessaloniki, Greece"
-#typeoutTextValues: '"2023"'
-#typeoutFallback: "2023"
 heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
- #- {permalink: "/#tickets", text: "Attend RECOMB ARCH 2026"}
+ - {link: "https://recomb-arch.github.io/arch2026", text: "Next Conference: RECOMB-Arch 2026"}
 
 # About Block
 aboutTitle: "About RECOMB ARCH"
@@ -118,7 +112,7 @@ socialLinks:
  - {link: "https://twitter.com/recombarch", icon: "twitter"}
  - {link: "https://www.youtube.com/@recomb-arch", icon: "youtube"}
  - {link: "https://www.linkedin.com/groups/16421006", icon: "linkedin"}
-# - {permalink: "/feed.xml", icon: "rss"}
+
 footerBlocks:
  -
   title: "Links"
@@ -127,7 +121,6 @@ footerBlocks:
   title: "Policies"
   links:
    - {permalink: "/coi/", text: "Conflict-of-interest Policy"}
-   # - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
