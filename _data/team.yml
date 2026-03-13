@@ -50,13 +50,24 @@
 
 - 
   id: 5
-  name: "Yatish"
-  surname: "Turakhia"
+  name: "Can"
+  surname: "Alkan"
   title: "Program Committee Chair"
-  thumbnailUrl: YatishTurakhia.jpg
+  thumbnailUrl: CanAlkan.jpg
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://x.com/yatishturakhia"}
-    - {name: "github", link: "https://github.com/yatisht"}
-    - {name: "site", link: "https://turakhia.ucsd.edu/"}
+    - {name: "twitter", link: "https://x.com/calkan_cs"}
+    - {name: "github", link: "https://github.com/calkan"}
+    - {name: "site", link: "http://alkanlab.org/"}
+
+  id: 6
+  name: "Ibrahim"
+  surname: "Numanagić"
+  title: "Program Committee Chair"
+  thumbnailUrl: IbrahimNumanagic.jpg
+  team: true
+  social: 
+    - {name: "github", link: "https://github.com/inumanag"}
+    - {name: "site", link: "https://saray.ca/~ibrahim/"}
+
 
