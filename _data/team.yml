@@ -65,7 +65,7 @@
   surname: "Numanagić"
   title: "Program Committee Chair"
   thumbnailUrl: IbrahimNumanagic.jpg
-  team: true
+  subTeam: true
   social: 
     - {name: "github", link: "https://github.com/inumanag"}
     - {name: "site", link: "https://saray.ca/~ibrahim/"}
