@@ -1,73 +1,66 @@
-- 
-  id: 0
+- id: 0
   name: "Can"
   surname: "Alkan"
   title: "Steering Committee Member"
   thumbnailUrl: CanAlkan.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "twitter", link: "https://x.com/calkan_cs"}
-    - {name: "github", link: "https://github.com/calkan"}
-    - {name: "site", link: "http://alkanlab.org/"}
-- 
-  id: 1
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "twitter", link: "https://x.com/calkan_cs" }
+    - { name: "github", link: "https://github.com/calkan" }
+    - { name: "site", link: "http://alkanlab.org/" }
+- id: 1
   name: "Onur"
   surname: "Mutlu"
   title: "Steering Committee Chair"
   thumbnailUrl: OnurMutlu.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "twitter", link: "https://x.com/_onurmutlu_"}
-    - {name: "github", link: "https://github.com/omutlu"}
-    - {name: "site", link: "https://safari.ethz.ch/"}
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "twitter", link: "https://x.com/_onurmutlu_" }
+    - { name: "github", link: "https://github.com/omutlu" }
+    - { name: "site", link: "https://safari.ethz.ch/" }
 
-- 
-  id: 3
+- id: 3
   name: "Ibrahim"
   surname: "Numanagić"
   title: "Steering Committee Member"
   thumbnailUrl: IbrahimNumanagic.jpg
   team: true
-  social: 
-    - {name: "github", link: "https://github.com/inumanag"}
-    - {name: "site", link: "https://saray.ca/~ibrahim/"}
+  social:
+    - { name: "github", link: "https://github.com/inumanag" }
+    - { name: "site", link: "https://saray.ca/~ibrahim/" }
 
-- 
-  id: 4
+- id: 4
   name: "Yatish"
   surname: "Turakhia"
   title: "Steering Committee Member"
   thumbnailUrl: YatishTurakhia.jpg
   team: true
-  social: 
-    - {name: "twitter", link: "https://x.com/yatishturakhia"}
-    - {name: "github", link: "https://github.com/yatisht"}
-    - {name: "site", link: "https://turakhia.ucsd.edu/"}
+  social:
+    - { name: "twitter", link: "https://x.com/yatishturakhia" }
+    - { name: "github", link: "https://github.com/yatisht" }
+    - { name: "site", link: "https://turakhia.ucsd.edu/" }
 
-- 
-  id: 5
-  name: "Can"
-  surname: "Alkan"
-  title: "Program Committee Chair"
-  thumbnailUrl: CanAlkan.jpg
-  subTeam: true
-  social: 
-    - {name: "twitter", link: "https://x.com/calkan_cs"}
-    - {name: "github", link: "https://github.com/calkan"}
-    - {name: "site", link: "http://alkanlab.org/"}
--
+- id: 5
+  name: "Yatish"
+  surname: "Turakhia"
+  title: "Steering Committee Member"
+  thumbnailUrl: YatishTurakhia.jpg
+  team: true
+  social:
+    - { name: "twitter", link: "https://x.com/yatishturakhia" }
+    - { name: "github", link: "https://github.com/yatisht" }
+    - { name: "site", link: "https://turakhia.ucsd.edu/" }
+
   id: 6
   name: "Ibrahim"
   surname: "Numanagić"
   title: "Program Committee Chair"
   thumbnailUrl: IbrahimNumanagic.jpg
   subTeam: true
-  social: 
-    - {name: "github", link: "https://github.com/inumanag"}
-    - {name: "site", link: "https://saray.ca/~ibrahim/"}
-
-
+  social:
+    - { name: "github", link: "https://github.com/inumanag" }
+    - { name: "site", link: "https://saray.ca/~ibrahim/" }
