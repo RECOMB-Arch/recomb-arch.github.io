@@ -22,6 +22,10 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - 2026: Yatish Turakhia, Ibrahim Numanagić
  
 
+#### Keynote and Invited Talks
+
+ - 2026: Santiago Marco-Sola (keynote), Onur Mutlu (invited talk)
+
 #### Panel Speakers: 
  - 2023: Mohammed Alser, Irem Boybat, Damla Senol Cali, Rayan Chikhi
  

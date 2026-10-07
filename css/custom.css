@@ -1,0 +1,81 @@
+/* RECOMB-Arch tweaks on top of main.css (loaded after it in _includes/head.html). */
+
+/* Committee cards: main.css scales each photo to 115% of a short, wide card and
+   shows only a middle strip, which cuts off heads. Use portrait cards that keep
+   the whole headshot in view. */
+.team .zoe-effect {
+    height: 340px;
+    max-width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.team .zoe-effect figure {
+    position: relative;
+}
+.team .zoe-effect figure,
+.team .zoe-effect:hover figure {
+    background-size: cover;
+    background-position: center 20%;
+}
+/* Darken the bottom of each photo so the white names stay readable. */
+.team .zoe-effect figure .overlay {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6) 0, rgba(0, 0, 0, 0) 45%);
+}
+.team .zoe-effect:hover figure .overlay {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+/* Keynote speakers page: one section per year (see speakers.html). */
+.keynote-item {
+    display: flex;
+    align-items: center;
+    max-width: 760px;
+    margin: 0 auto 30px;
+    text-align: left;
+}
+.keynote-item img {
+    flex: none;
+    width: 120px;
+    height: 120px;
+    margin-right: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.keynote-role {
+    margin: 0 0 4px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #8a969b;
+}
+.keynote-name {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 400;
+}
+.keynote-affiliation {
+    margin: 2px 0 8px;
+}
+.keynote-talk {
+    margin: 0;
+    font-size: 16px;
+    font-style: italic;
+}
+.keynote-talk a {
+    color: #3c4a50;
+}
+.keynote-talk a:hover {
+    text-decoration: underline;
+}
+.keynote-tba {
+    text-align: center;
+}
+@media (max-width: 480px) {
+    .keynote-item {
+        flex-direction: column;
+        text-align: center;
+    }
+    .keynote-item img {
+        margin: 0 0 12px;
+    }
+}

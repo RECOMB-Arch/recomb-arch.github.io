@@ -1,0 +1,20 @@
+# Keynote and invited talks, listed on /speakers/ under their year.
+# Years shown are set in speakers.html (`years`); a year with no entries shows "To be announced."
+# photo: file in img/people/
+- year: 2026
+  role: "Keynote"
+  name: "Santiago Marco-Sola"
+  affiliation: "Barcelona Supercomputing Center"
+  link: "https://www.bsc.es/marco-sola-santiago"
+  photo: SantiagoMarcoSola.jpg
+  talk: "Scale and Complexity: Co-Designing Algorithms and Architectures for Emerging Challenges in Genomics"
+  abstract: "https://recomb-arch.github.io/arch2026/keynotes"
+
+- year: 2026
+  role: "Invited Talk"
+  name: "Onur Mutlu"
+  affiliation: "ETH Zurich"
+  link: "https://people.inf.ethz.ch/omutlu/"
+  photo: OnurMutlu.jpg
+  talk: "Accelerating Genome Analysis"
+  abstract: "https://recomb-arch.github.io/arch2026/keynotes#invited-talk"

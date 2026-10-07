@@ -3,16 +3,9 @@ layout: default
 title: Keynote Speakers
 permalink: /speakers/
 image: recomb-arch-keynote-new.jpeg
-modal: all
+years: [2027, 2026]
 ---
 
 {% include top-section.html %}
-{%- comment -%}
-{% include speakers-tbd.html %}
-Commented out until speakers are determined.
-{%- endcomment -%}
-{% if site.showSessions %}
-    {% include speakers-list.html %}
-{% else %}
-    {% include speakers-list-2.html %}
-{% endif %}
+
+{% include keynotes.html %}
