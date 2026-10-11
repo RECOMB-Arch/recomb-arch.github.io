@@ -47,12 +47,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RECOMB-ARCH 2026"
-heroSubTitle: "The First RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads"
-eventDate: "May 24, 2026"
-eventLocation: "Thessaloniki, Greece"
+heroTitle: "RECOMB-ARCH 2027"
+heroSubTitle: "The Second RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads"
+eventDate: "May 16, 2027"
+eventLocation: "Toronto, Canada"
 heroButtons:
- - {link: "https://recomb-arch.github.io/arch2026", text: "Next Conference: RECOMB-Arch 2026"}
+ - {link: "https://recomb-arch.github.io/arch2027", text: "Next Conference: RECOMB-Arch 2027"}
 
 # About Block
 aboutTitle: "About RECOMB ARCH"
@@ -76,19 +76,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Thessaloniki"
+eventLocationName: "Toronto"
 eventLocationLink: "TBD"
 eventStreetAddress: "TBD"
-eventAddressLocality: ""
-eventAddressLocalityRegion: "Athens"
+eventAddressLocality: "Toronto"
+eventAddressLocalityRegion: "Ontario"
 eventPostalCode: ""
-eventAddressCountry: "Greece"
-eventStartTime: "2025-04-24T08:00"
+eventAddressCountry: "Canada"
+eventStartTime: "2027-05-16"
 eventDoorTime: "09:00"
-eventEndTime: "2025-04-25T18:00"
-eventPlaceCoordinates: "37.5617613,126.9353254"
-mapCenterCoordinates: "37.5617613,126.9353254"
-mapMobileCenterCoordinates: "37.5617613,126.9353254"
+eventEndTime: "2027-05-16"
+eventPlaceCoordinates: "43.6525,-79.3817"
+mapCenterCoordinates: "43.6525,-79.3817"
+mapMobileCenterCoordinates: "43.6525,-79.3817"
 
 # Venue Block
 venueBlockTitle: "Venue"

@@ -10,7 +10,8 @@ This project is the website template and content for RECOMB-ARCH, see the live w
 * history.md: history page to be updated after the conference
 * history/  : folder with archived information for each year
 * _data/pc.yml: list of PC (perhaps it would be easier to do simply im html)
-* _data/speakers.yml: keynote spekers with bio + abstract, used on two places (keynotes and program)
+* _data/keynotes.yml: keynote and invited talks by year (Keynote Speakers page; the years shown are listed in speakers.html)
+* css/custom.css: style tweaks loaded after css/main.css (committee photo cards, keynote list)
 * _data/team.yml: PC chairs and SC
 * _includes/about.html: home page with basic info
 * _includes/schedule-tbd.html: plain html schedule (earlier used to post the list of accepted papers; NOTE: the file used for RECOMB-seq 2024 is _includes/schedule2024.html; this file name is specified in schedule.html)

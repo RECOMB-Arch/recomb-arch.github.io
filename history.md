@@ -14,11 +14,17 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 
 #### Previous iterations
    - 2023: Istanbul, Turkey as BIO-Arch [About](https://safari.ethz.ch/recomb23-arch-workshop/) 
+   - 2026: Thessaloniki, Greece [About](https://recomb-arch.github.io/arch2026/)
  
 #### Program Committee Chairs
   
  - 2023: Onur Mutlu, Can Firtina
+ - 2026: Yatish Turakhia, Ibrahim Numanagić
  
+
+#### Keynote and Invited Talks
+
+ - 2026: Santiago Marco-Sola (keynote), Onur Mutlu (invited talk)
 
 #### Panel Speakers: 
  - 2023: Mohammed Alser, Irem Boybat, Damla Senol Cali, Rayan Chikhi
