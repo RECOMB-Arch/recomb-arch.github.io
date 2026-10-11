@@ -51,5 +51,6 @@
   thumbnailUrl: CanFirtina.jpg
   subTeam: true
   social:
+    - { name: "twitter", link: "https://x.com/FirtinaC" }
     - { name: "github", link: "https://github.com/canfirtina" }
     - { name: "site", link: "https://www.cs.umd.edu/~firtina/" }
