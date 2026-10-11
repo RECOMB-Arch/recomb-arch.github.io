@@ -25,7 +25,18 @@
     background: rgba(0, 0, 0, 0.3);
 }
 
-/* Keynote speakers page: one section per year (see speakers.html). */
+/* Keynote speakers page: one section per year (see speakers.html).
+   Year headings are h2 for a correct outline but keep the theme's h4 look. */
+.keynotes .keynote-year {
+    margin: 50px 0 20px;
+    font-size: 40.625px;
+    text-align: center;
+}
+@media (max-width: 767px) {
+    .keynotes .keynote-year {
+        font-size: 28.4375px;
+    }
+}
 .keynote-item {
     display: flex;
     align-items: center;
@@ -48,7 +59,7 @@
     text-transform: uppercase;
     color: #8a969b;
 }
-.keynote-name {
+.keynotes .keynote-name {
     margin: 0;
     font-size: 22px;
     font-weight: 400;

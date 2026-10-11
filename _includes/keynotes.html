@@ -4,7 +4,7 @@
         <div class="col-lg-10 col-lg-offset-1">
             {% for year in page.years %}
             {% assign talks = site.data.keynotes | where: "year", year %}
-            <h4>RECOMB-Arch {{ year }}</h4>
+            <h2 class="keynote-year">RECOMB-Arch {{ year }}</h2>
             {% if talks.size == 0 %}
             <p class="keynote-tba">To be announced.</p>
             {% endif %}
@@ -13,7 +13,7 @@
                 <img src="{{ site.baseurl }}/img/people/{{ talk.photo }}" alt="{{ talk.name }}">
                 <div>
                     <p class="keynote-role">{{ talk.role }}</p>
-                    <h2 class="keynote-name"><a href="{{ talk.link }}" target="_blank">{{ talk.name }}</a></h2>
+                    <h3 class="keynote-name"><a href="{{ talk.link }}" target="_blank">{{ talk.name }}</a></h3>
                     <p class="keynote-affiliation">{{ talk.affiliation }}</p>
                     <p class="keynote-talk">{% if talk.abstract %}<a href="{{ talk.abstract }}" target="_blank">{{ talk.talk }}</a>{% else %}{{ talk.talk }}{% endif %}</p>
                 </div>
