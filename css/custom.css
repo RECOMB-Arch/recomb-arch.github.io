@@ -19,7 +19,7 @@
 }
 /* Darken the bottom of each photo so the white names stay readable. */
 .team .zoe-effect figure .overlay {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6) 0, rgba(0, 0, 0, 0) 45%);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.75) 0, rgba(0, 0, 0, 0) 45%);
 }
 .team .zoe-effect:hover figure .overlay {
     background: rgba(0, 0, 0, 0.3);
@@ -63,6 +63,14 @@
     margin: 0;
     font-size: 22px;
     font-weight: 400;
+}
+.keynotes .keynote-name a {
+    color: #0277bd;
+}
+.keynotes .keynote-name a:hover,
+.keynotes .keynote-name a:focus {
+    color: #01579b;
+    text-decoration: underline;
 }
 .keynote-affiliation {
     margin: 2px 0 8px;

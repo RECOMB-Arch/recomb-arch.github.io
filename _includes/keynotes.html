@@ -13,9 +13,9 @@
                 <img src="{{ site.baseurl }}/img/people/{{ talk.photo }}" alt="{{ talk.name }}">
                 <div>
                     <p class="keynote-role">{{ talk.role }}</p>
-                    <h3 class="keynote-name"><a href="{{ talk.link }}" target="_blank">{{ talk.name }}</a></h3>
+                    <h3 class="keynote-name"><a href="{{ talk.link }}" target="_blank" rel="noopener">{{ talk.name }}</a></h3>
                     <p class="keynote-affiliation">{{ talk.affiliation }}</p>
-                    <p class="keynote-talk">{% if talk.abstract %}<a href="{{ talk.abstract }}" target="_blank">{{ talk.talk }}</a>{% else %}{{ talk.talk }}{% endif %}</p>
+                    <p class="keynote-talk">{% if talk.abstract %}<a href="{{ talk.abstract }}" target="_blank" rel="noopener">{{ talk.talk }}</a>{% else %}{{ talk.talk }}{% endif %}</p>
                 </div>
             </div>
             {% endfor %}
