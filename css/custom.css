@@ -25,6 +25,12 @@
     background: rgba(0, 0, 0, 0.3);
 }
 
+/* The theme clips the role line to 14px, which cuts off descenders (g, y).
+   Let it take its full line height; it stays one line with an ellipsis. */
+.team .zoe-effect figcaption .position {
+    height: auto;
+}
+
 /* Keynote speakers page: one section per year (see speakers.html).
    Year headings are h2 for a correct outline but keep the theme's h4 look. */
 .keynotes .keynote-year {
